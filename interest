@@ -1,0 +1,12 @@
+#Enter the pricipal amount
+p=int(input("Enter the value of P"))
+
+#enter the no of year
+n=int(input("Enter the value of "))
+
+#
+r=int(input("Enter the value of P"))
+
+si=(p*n*r)/100
+
+print(si)
