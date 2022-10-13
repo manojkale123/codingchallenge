@@ -1,2 +1,2 @@
 # codingchallenge
-I have create simple interest calcualtor using python
+I have create simple interest calcualtor  using python
